@@ -1,4 +1,4 @@
-Модуль для Magento 2.3
+Payment module for Magento 2.3 (Concord Bank)
 =====
 
 Установка
@@ -11,4 +11,4 @@
 >4. Перейти в раздел "Магазин" -> "Конфигурация" ("Stores" -> "Configuration") 
 >5. Открыть вкладку "Продажи" -> "Методы оплаты" ("Sales" -> "Paymenr Methods")
 >6. Активировать оплату Concordpay в "OTHER PAYMENT METHODS"
->7. Ввести все настройки 
+>7. Ввести все настройки
